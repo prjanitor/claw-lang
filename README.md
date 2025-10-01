@@ -11,10 +11,6 @@
     <a href="https://crates.io/crates/claw-cli"><img src="https://img.shields.io/crates/d/claw-cli.svg?style=flat-square" alt="Download" /></a>
     <a href="https://docs.rs/claw-cli"><img src="https://img.shields.io/badge/docs-latest-blue.svg?style=flat-square" alt="docs.rs docs" /></a>
   </p>
-
-  <p>
-    <a href="https://techforpalestine.org/learn-more"><img src="https://badge.techforpalestine.org/default" alt="build status" /></a>
-  </p>
 </div>
 
 Claw is a programming language that compiles to Wasm Components.
@@ -111,4 +107,5 @@ Claw will use WIT syntax for defining types, WAC syntax for defining composition
 combining them all together so that it's intuitive to use these different tools.
 
 ![image](https://github.com/esoterra/claw-lang/assets/3458116/de0673f1-7b92-48c6-b1c3-e52479797778)
+
 
